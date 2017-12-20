@@ -1,0 +1,57 @@
+Database Server
+
+Instance ID: i-04343fe3688f9b570
+Instance Type: t2.micro
+Availability zone: us-east-2a
+Instance Status: running
+Status Checks: 2/2 checks passed
+Alarm Status: None
+Public DNS (IPV4): ec2-18-217-235-71.us-east-2.compute.amazonaws.com
+IPV4 Public IP: 18.217.235.71
+IPV6 IPs: -
+Key Name: IT6102017
+Monitoring: disabled
+Launch Time: December 20, 2017 at 1:11:43 PM UTC-5
+Security Group: launch-wizard-1
+
+
+
+
+Web Server
+
+Instance ID: i-0b46890ed906a3c76
+Instance Type: t2.micro
+Availability zone: us-east-2a
+Instance Status: running
+Status Checks: 2/2 checks passed
+Alarm Status:  None
+Public DNS (IPV4): ec2-18-217-70-29.us-east-2.compute.amazonaws.com
+IPV4 Public IP: 18.217.70.29
+IPV6 IPs: -
+Key Name: IT6102017
+Monitoring: disabled
+Launch Time: December 20, 2017 at 1:11:43 PM UTC-5
+Security Group: launch-wizard-2
+
+
+
+
+
+
+
+Nagios Server
+
+Instance ID: i-0ea28117731979977
+Instance Type: t2.micro
+Availability zone: us-east-2a
+Instance Status: running
+Status Checks: 2/2 checks passed
+Alarm Status: None
+Public DNS (IPV4): ec2-18-216-208-5.us-east-2.compute.amazonaws.com
+IPV4 Public IP: 18.216.208.5
+IPV6 IPs: -
+Key Name: IT6102017
+Monitoring: disabled
+Launch Time: December 20, 2017 at 1:11:43 PM UTC-5
+Security Groups: launch-wizard-3
+
